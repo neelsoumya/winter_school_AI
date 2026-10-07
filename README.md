@@ -9,16 +9,18 @@ Winter school for AI
 
 - Unsupervised ML 1 – Soumya Banerjee 1 hour 45 mins
 
-Intro to Python
+[Intro to Python](https://cambiotraining.github.io/ml-unsupervised/materials/python_refresher.html)
 
 Intro to Unsupervised Machine Learning
 
 - Unsupervised ML 2 – Soumya Banerjee 1 hour 30 mins
 
-Practical
+[Practical](https://cambiotraining.github.io/ml-unsupervised/)
 
 - Thursday 7th January 1:30 PM UK time
 
-Practical
+[Practical](https://neelsoumya.github.io/teaching_llm_applications/materials/week01_intro_and_history.html#part-2-the-deep-learning-revolution-15-mins)
 
-Segue to LLMs
+[Segue to LLMs](https://neelsoumya.github.io/teaching_llm_applications/materials/week01_intro_and_history.html)
+
+[Intro to transformers](https://docs.science.ai.cam.ac.uk/large-language-models/)
