@@ -24,3 +24,7 @@ Intro to Unsupervised Machine Learning
 [Segue to LLMs](https://neelsoumya.github.io/teaching_llm_applications/materials/week01_intro_and_history.html#part-2-the-deep-learning-revolution-15-mins)
 
 [Intro to transformers](https://docs.science.ai.cam.ac.uk/large-language-models/)
+
+## Agentic and LLM hackathon
+
+- [Agentic and LLM hackathon by Radsym](agentic.md)
