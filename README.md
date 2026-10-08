@@ -17,6 +17,14 @@ Intro to Unsupervised Machine Learning
 
 [Practical](https://cambiotraining.github.io/ml-unsupervised/)
 
+How to [normalize data](https://cambiotraining.github.io/ml-unsupervised/materials/normalization.html)
+
+How to visualize
+
+Spot trends: Exercise spot what is wrong
+
+Use Python to visualize and do PCA/[tSNE](https://cambiotraining.github.io/ml-unsupervised/materials/tsne.html) and get `feel` of data
+
 - Thursday 7th January 1:30 PM UK time
 
 [Practical](https://cambiotraining.github.io/ml-unsupervised/materials/tsne.html#exercise-hands-on-practical-applying-tsne-to-another-dataset)
