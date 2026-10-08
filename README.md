@@ -4,6 +4,8 @@ Winter school for AI
 
 ## Syllabus
 
+[Detailed Syllabus and Learning Outcomes](ai_winter_school_syllabus.md)
+
 - Wednesday 6th January 1:30 PM UK time
 
 
