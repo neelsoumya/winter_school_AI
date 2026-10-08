@@ -33,7 +33,8 @@ Use Python to visualize and do PCA/[tSNE](https://cambiotraining.github.io/ml-un
 
 [Intro to transformers](https://docs.science.ai.cam.ac.uk/large-language-models/)
 
-[Practical on absolute basic transformers](practicals/absolute_basic_transformers.ipynb)
+[Practical on absolute basic transformers](https://github.com/neelsoumya/winter_school_AI/blob/main/practicals/absolute_basic_transformers.ipynb)
+
 
 ## Agentic and LLM hackathon
 
