@@ -4,7 +4,9 @@ Winter school for AI
 
 ## Syllabus
 
-[Detailed Syllabus and Learning Outcomes](ai_winter_school_syllabus.md)
+[📝 Detailed Syllabus and Learning Outcomes](ai_winter_school_syllabus.md)
+
+## Outline
 
 - Wednesday 6th January 1:30 PM UK time
 
@@ -37,6 +39,7 @@ Use Python to visualize and do PCA/[tSNE](https://cambiotraining.github.io/ml-un
 
 [Practical on absolute basic transformers](https://github.com/neelsoumya/winter_school_AI/blob/main/practicals/absolute_basic_transformers.ipynb)
 
+[🤔❓ How does ChatGPT serve 900 million users?](https://neelsoumya.github.io/teaching_llm_applications/materials/900m_users_chatGPT.html)
 
 ## Agentic and LLM hackathon
 
