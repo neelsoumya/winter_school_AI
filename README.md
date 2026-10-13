@@ -40,7 +40,9 @@ Use Python to visualize and do [PCA using the `pca` package](https://cambiotrain
 
 [Intro to transformers](https://docs.science.ai.cam.ac.uk/large-language-models/)
 
-[Practical on absolute basic transformers](https://github.com/neelsoumya/winter_school_AI/blob/main/practicals/absolute_basic_transformers.ipynb)
+🤔❓ How to extend this to genes, materials science, robotics? Everything is a _token_
+
+[🎮 🛠️Practical on absolute basic transformers](https://github.com/neelsoumya/winter_school_AI/blob/main/practicals/absolute_basic_transformers.ipynb)
 
 [🤔❓ How does ChatGPT serve 900 million users?](https://neelsoumya.github.io/teaching_llm_applications/materials/900m_users_chatGPT.html)
 
