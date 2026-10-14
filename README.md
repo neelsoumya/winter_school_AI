@@ -35,7 +35,7 @@ Use Python to visualize and do [PCA using the `pca` package](https://cambiotrain
 
 [Segue to LLMs](https://neelsoumya.github.io/teaching_llm_applications/materials/week01_intro_and_history.html#part-2-the-deep-learning-revolution-15-mins)
 
-[Link and segue between unsupervised learning and PCAs (see diagram on last page)](https://github.com/neelsoumya/public_teaching_unsupervised_learning/blob/main/pca_notes_advanced_2.pdf)
+[Link and segue between unsupervised learning and PCAs (see diagram on last page)](https://github.com/neelsoumya/public_teaching_unsupervised_learning/blob/main/pca_notes_advanced_2.pdf) and [polished diagram here](https://github.com/neelsoumya/public_teaching_unsupervised_learning/blob/main/PCA_advanced_lecture_notes_polished.pdf)
 
 [🎥 Unsupervised learning is the first step towards LLMs: video by _3blue1brown_](https://www.youtube.com/watch?v=LPZh9BOjkQs)
 
