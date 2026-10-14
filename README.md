@@ -1,6 +1,6 @@
 # winter_school_AI
 
-Winter school for AI
+Winter school for AI teaching working professionals the basics of AI, Python programming, LLMs and agentic _stuff_
 
 ## Syllabus
 
@@ -39,6 +39,9 @@ Use Python to visualize and do [PCA using the `pca` package](https://cambiotrain
 
 
 [Intro to transformers](https://docs.science.ai.cam.ac.uk/large-language-models/)
+
+
+[Diagram of transformers](https://neelsoumya.github.io/teaching_llm_applications/materials/transformers.html#intro-to-transformers-jay-alammar-course)
 
 🤔❓ How to extend this to genes, materials science, robotics? Everything is a _token_
 

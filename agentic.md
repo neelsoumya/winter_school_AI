@@ -1,6 +1,8 @@
 # Agentic and LLM hackathon
 
-by Radsym
+by Radsym Sendyka
+
+- [🎮 Agentic using AG2 notebook practical](https://github.com/neelsoumya/science_fiction_life_LLM/blob/main/simple_agent_ag2.ipynb)
 
 Session 6 - "APIs to LLMs" notebook-based presentation - I go through content included in a google colab notebook shared with participants, explaining concepts and code examples as we go along. Go from a place where most learners have only interacted with LLMs via websites, to a place where they've all called a few different models successfully, and have a better understanding of what goes on behind the scenes. Information on what kinds of models are best for what tasks, what criteria are useful to judge "best". Spare time for setup - Google Colab, GitHub, distributing API keys. 
 
