@@ -15,7 +15,7 @@ Winter school for AI teaching working professionals the basics of AI, Python pro
 
 [Intro to Python](https://cambiotraining.github.io/ml-unsupervised/materials/python_refresher.html)
 
-Intro to Unsupervised Machine Learning
+[Intro to Unsupervised Machine Learning and activities to play around in the browser](https://cambiotraining.github.io/ml-unsupervised/materials/walkthrough.html)
 
 - Unsupervised ML 2 – Soumya Banerjee 1 hour 30 mins
 
