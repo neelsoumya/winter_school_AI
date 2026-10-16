@@ -1,6 +1,6 @@
 # winter_school_AI
 
-Winter school for AI teaching working professionals the basics of AI, Python programming, LLMs and agentic _stuff_
+🌨️ Winter 🧣🧤🥶  school for AI teaching working professionals the basics of AI, Python programming, LLMs and agentic _stuff_
 
 ## Syllabus
 
