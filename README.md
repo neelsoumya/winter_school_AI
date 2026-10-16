@@ -55,3 +55,20 @@ Use Python to visualize and do [PCA using the `pca` package](https://cambiotrain
 ## Agentic and LLM hackathon
 
 - [Agentic and LLM hackathon by Radsym Sendyka](agentic.md)
+
+
+## Software
+
+**How to use in Colab:**
+
+- Open a new notebook in [Google Colab](https://colab.research.google.com/)
+
+- If you want to run the notebooks in Colab, you can also use the _Open in Colab_ badge below:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
+
+
+- Run the commands in code cells.
+
+- You can now create notebooks and run any of the scripts in Google Colab.
+
