@@ -31,6 +31,11 @@ Use Python to visualize and do [PCA using the `pca` package](https://cambiotrain
 
 - Thursday 7th January 1:30 PM UK time
 
+[Fundamental concept in machine learning/bias variance tradeoff](https://www.youtube.com/watch?v=4_la9-Ehvmo)
+
+[Simpler models are better/bias variance](https://github.com/neelsoumya/basic_statistics/blob/master/bias_variance.png)
+
+
 [🎮 🛠️ Practical](https://cambiotraining.github.io/ml-unsupervised/materials/tsne.html#exercise-hands-on-practical-applying-tsne-to-another-dataset)
 
 [Segue to LLMs](https://neelsoumya.github.io/teaching_llm_applications/materials/week01_intro_and_history.html#part-2-the-deep-learning-revolution-15-mins)
