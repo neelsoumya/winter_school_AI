@@ -17,6 +17,12 @@
 
 [🎮 Activities, and Intro to Unsupervised Machine Learning and activities to play around in the browser](https://cambiotraining.github.io/ml-unsupervised/materials/walkthrough.html)
 
+Difference between unsupervised and supervised machine learning
+
+[Fundamental concept in machine learning/bias variance tradeoff](https://www.youtube.com/watch?v=4_la9-Ehvmo)
+
+[Simpler models are better/bias variance](https://github.com/neelsoumya/basic_statistics/blob/master/bias_variance.png)
+
 - Unsupervised ML 2 – Soumya Banerjee 1 hour 30 mins
 
 [Practical](https://cambiotraining.github.io/ml-unsupervised/)
@@ -30,10 +36,6 @@ Spot trends: Exercise spot what is wrong
 Use Python to visualize and do [PCA using the `pca` package](https://cambiotraining.github.io/ml-unsupervised/materials/normalization.html) and [🎮 🛠️tSNE (optionally)](https://cambiotraining.github.io/ml-unsupervised/materials/tsne.html) and get `feel` of data
 
 - Thursday 7th January 1:30 PM UK time
-
-[Fundamental concept in machine learning/bias variance tradeoff](https://www.youtube.com/watch?v=4_la9-Ehvmo)
-
-[Simpler models are better/bias variance](https://github.com/neelsoumya/basic_statistics/blob/master/bias_variance.png)
 
 
 [🎮 🛠️ Practical](https://cambiotraining.github.io/ml-unsupervised/materials/tsne.html#exercise-hands-on-practical-applying-tsne-to-another-dataset)
