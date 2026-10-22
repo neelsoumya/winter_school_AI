@@ -2,6 +2,8 @@
 
 🌨️ Winter 🧣🧤🥶  school for AI teaching working professionals the basics of AI, Python programming, LLMs and agentic _stuff_
 
+Prerequisities: working knowledge of Python or programming.
+
 ## Syllabus
 
 [📝 Detailed Syllabus and Learning Outcomes](ai_winter_school_syllabus.md)
