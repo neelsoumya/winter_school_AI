@@ -61,7 +61,7 @@ Use Python to visualize and do [PCA using the `pca` package](https://cambiotrain
 
 ## Agentic and LLM hackathon
 
-- [Agentic and LLM hackathon by Radsym Sendyka](agentic.md)
+- [Agentic and LLM hackathon by Radzim Sendyka](agentic.md)
 
 
 ## Software

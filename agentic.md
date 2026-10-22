@@ -1,6 +1,6 @@
 # Agentic and LLM hackathon
 
-by Radsym Sendyka
+by Radzim Sendyka
 
 - [🎮 Agentic using AG2 notebook practical](https://github.com/neelsoumya/science_fiction_life_LLM/blob/main/simple_agent_ag2.ipynb)
 
