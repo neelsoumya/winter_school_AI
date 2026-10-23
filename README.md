@@ -25,7 +25,7 @@ Difference between unsupervised and supervised machine learning
 
 [Simpler models are better/bias variance](https://github.com/neelsoumya/basic_statistics/blob/master/bias_variance.png)
 
-[How does a neural network learn using backpropagation (animation](https://teaching-neural-network-animation.streamlit.app/)
+[How does a neural network learn using backpropagation (animation)](https://teaching-neural-network-animation.streamlit.app/)
 
 - Unsupervised ML 2 – Soumya Banerjee 1 hour 30 mins
 
