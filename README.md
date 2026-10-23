@@ -61,6 +61,7 @@ Use Python to visualize and do [PCA using the `pca` package](https://cambiotrain
 
 [🤔❓ How does ChatGPT serve 900 million users?](https://neelsoumya.github.io/teaching_llm_applications/materials/900m_users_chatGPT.html)
 
+
 ## Agentic and LLM hackathon
 
 - [Agentic and LLM hackathon by Radzim Sendyka](agentic.md)
@@ -81,3 +82,7 @@ Use Python to visualize and do [PCA using the `pca` package](https://cambiotrain
 
 - You can now create notebooks and run any of the scripts in Google Colab.
 
+
+## Contact
+
+Soumya Banerjee
