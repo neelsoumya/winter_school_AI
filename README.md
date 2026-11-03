@@ -1,6 +1,6 @@
 # winter_school_AI
 
-🌨️ Winter 🧣🧤🥶  school for AI teaching working professionals the basics of AI, Python programming, LLMs and agentic _stuff_
+[🌨️ Winter 🧣🧤🥶  school for AI](https://www.c2d3.cam.ac.uk/events/ai-problem-solving-winter-2027) teaching working professionals the basics of AI, Python programming, LLMs and agentic _stuff_
 
 Prerequisities: working knowledge of Python or programming.
 
