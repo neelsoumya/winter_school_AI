@@ -64,6 +64,20 @@ Use Python to visualize and do [PCA using the `pca` package](https://cambiotrain
 [🤔❓ How does ChatGPT serve 900 million users?](https://neelsoumya.github.io/teaching_llm_applications/materials/900m_users_chatGPT.html)
 
 
+## 🎮 Hackathon
+
+- Students in India expose to startup mentality
+- Think about _problems_ and not _technologies_
+- Think about creating _employment_ and not just becoming an _employee_ (`startup mentality`)
+- Guest lectures on journey and problems to be expected in startups
+- Saikat, Urgin, Madhuparna et al.
+- Real world problems, synthetic data
+- Work with people from other domains (MBA, Finance and CS) and create a solution
+- Deploy using [huggingface spaces or `streamlit` or `gradio`](https://neelsoumya.github.io/visualization_lecture/exercises/exercise_week7.html#huggingface)
+- Pitch in 5 minutes
+
+
+
 ## Agentic and LLM hackathon
 
 - [Agentic and LLM hackathon by Radzim Sendyka](agentic.md)
