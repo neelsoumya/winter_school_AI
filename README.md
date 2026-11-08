@@ -76,7 +76,7 @@ Use Python to visualize and do [PCA using the `pca` package](https://cambiotrain
 - Deploy using [huggingface spaces or `streamlit` or `gradio`](https://neelsoumya.github.io/visualization_lecture/exercises/exercise_week7.html#huggingface)
 - Pitch in 5 minutes
 
-
+- [Hackathon `README`](materials/HACKATHON_GUIDE.md)
 
 ## Agentic and LLM hackathon
 
