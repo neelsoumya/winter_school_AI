@@ -6,6 +6,10 @@
 
 ## 1. The problem in one paragraph
 
+- SuperStay, An Ai-Native Operating System for businesses. 
+
+- Eg : You order pasta from a restaurant, the restaurant takes the order from a pos system and shares a bill at the end. ( Up until here the current systems run, not more ) Superstay deos more, From delivering groceries, pasta and cheese at the best rates to ledger and compliances and you don't need to do anything else just take the order it works at the back.
+
 A restaurant group runs three outlets (Mumbai, Pune, Nagpur). Their **point-of-sale (POS)** system records every dish sold, but nothing connects those sales to what happens in the **kitchen store room**. Managers order vegetables, dairy, chicken and dry goods **by gut feel**, over WhatsApp, often forgetting what is already on order. Tomatoes rot, chicken runs out on Saturday night, cashew nuts quietly disappear, cold-room temperature logs are filled in on paper, and licences expire without anyone noticing. The owner finds out about all of this only at month-end.
 
 **Your task:** design, prototype and pitch a **backend that plugs into the POS** and does four things automatically:
