@@ -77,6 +77,7 @@ Use Python to visualize and do [PCA using the `pca` package](https://cambiotrain
 - Pitch in 5 minutes
 
 - [Hackathon `README`](materials/HACKATHON_GUIDE.md)
+- [Hackathon for retail and hospitality case study `README`](materials/PROBLEM_STATEMENT.md) 
 
 ## Agentic and LLM hackathon
 
