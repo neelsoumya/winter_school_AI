@@ -54,10 +54,26 @@ Use Python to visualize and do [PCA using the `pca` package](https://cambiotrain
 
 [Intro to transformers](https://docs.science.ai.cam.ac.uk/large-language-models/)
 
+[Another simpler intro to transformers](https://neelsoumya.github.io/teaching_llm_applications/materials/transformers.html)
+
+Diagrams below
+
+- [quick intro material](https://neelsoumya.github.io/teaching_llm_applications/materials/transformers.html)
+
+![image](https://neelsoumya.github.io/teaching_llm_applications/images/head.png)
+
+![image](https://neelsoumya.github.io/teaching_llm_applications/images/multiple_heads_recap.png)
+
 
 [Diagram of transformers](https://neelsoumya.github.io/teaching_llm_applications/materials/transformers.html#intro-to-transformers-jay-alammar-course)
 
-🤔❓ How to extend this to genes, materials science, robotics? Everything is a _token_
+🤔❓ How to extend this to genes, materials science, robotics, video, audio? Everything is a _token_
+
+- Key idea: 💡 everything is a token
+
+- Key 💡🔑🔐 idea: you can _attend_ to this token (*attention* is all you need)
+
+
 
 [🎮 🛠️Practical on absolute basic transformers](https://github.com/neelsoumya/winter_school_AI/blob/main/practicals/absolute_basic_transformers.ipynb)
 
