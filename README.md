@@ -94,6 +94,8 @@ Diagrams below
 
 - [Hackathon `README`](materials/HACKATHON_GUIDE.md)
 - [Hackathon for retail and hospitality case study `README`](materials/PROBLEM_STATEMENT.md) 
+- [Hackathon for AI for Math](materials/MATH_AI.md)
+
 
 ## Agentic and LLM hackathon
 

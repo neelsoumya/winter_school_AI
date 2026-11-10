@@ -1,0 +1,1 @@
+We evaluate formal mathematical reasoning with a deterministic model that finds novelty and non-triviality in AI-generated proofs, solving the bottleneck of manual revision and producing noise-free RL data. Our vision is to evaluate formal reasoning in AI for scientific discovery and reduce compute costs at scale.
