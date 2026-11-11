@@ -61,6 +61,10 @@ Use Python to visualize and do [PCA using the `pca` package](https://cambiotrain
 
 - 🤔context captures meaning
 
+
+- [🎥 Video (short) explaining how Aardvark and anemone get represented](https://youtube.com/shorts/yV2CqJ9hiww)
+
+
 ![image](images/embeddings_concept.png)
 
 
