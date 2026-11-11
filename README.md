@@ -66,6 +66,11 @@ Use Python to visualize and do [PCA using the `pca` package](https://cambiotrain
 
 ![image](images/embedding_3blue1brown.png)
 
+- 🔑🔐tokens that have similar meanings should have similar values
+
+![image](images/tokens_onehot_meaning.png)
+
+
 [Link and segue between unsupervised learning and PCAs (see diagram on last page)](https://github.com/neelsoumya/public_teaching_unsupervised_learning/blob/main/pca_notes_advanced_2.pdf) and [polished diagram here](https://github.com/neelsoumya/public_teaching_unsupervised_learning/blob/main/PCA_advanced_lecture_notes_polished.pdf) and [notes here](materials/unsupervised_learning_and_llm_embeddings.md) and [diagram here](materials/unsupervised_learning_to_llm_embeddings.pdf)
 
 [🎥 Unsupervised learning is the first step towards LLMs: video by _3blue1brown_](https://www.youtube.com/watch?v=LPZh9BOjkQs)
